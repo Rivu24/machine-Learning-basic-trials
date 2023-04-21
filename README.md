@@ -16,7 +16,7 @@ The 50_startups.csv dataset contains information about 50 startup companies. The
 - Marketing Spend: the amount of money spent on marketing.
 - State: the state where the company is located.
 - Profit: the profit made by the company.
-- Cleaned Dataset
+Cleaned Dataset
 The cleaned_startups.csv dataset is a cleaned version of the 50_startups.csv dataset. The dataset has been preprocessed to remove any missing or duplicate values, and to encode categorical variables. The dataset includes the following columns:
 
 - R&D Spend: the amount of money spent on research and development.
